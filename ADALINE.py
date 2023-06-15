@@ -1,5 +1,3 @@
-#NAME: SAMSON FAKUNLE A
-#MATRIC NO: CPE/16/7834
 
 import numpy as np
 
